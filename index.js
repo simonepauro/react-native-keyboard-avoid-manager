@@ -1,6 +1,3 @@
+import KeyboardAvoidManager from './src/components/field';
 
-import { NativeModules } from 'react-native';
-
-const { RNKeyboardAvoidManager } = NativeModules;
-
-export default RNKeyboardAvoidManager;
+export { KeyboardAvoidManager };
