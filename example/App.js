@@ -21,6 +21,8 @@ const instructions = Platform.select({
     'Shake or press menu button for dev menu',
 });
 
+import KeyboardAvoidManager from 'react-native-keyboard-avoid-manager';
+
 type Props = {};
 export default class App extends Component<Props> {
   render() {

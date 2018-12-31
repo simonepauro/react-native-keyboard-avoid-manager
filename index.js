@@ -1,3 +1,3 @@
-import KeyboardAvoidManager from './src/components/field';
+import KeyboardAvoidManager from './src/components/KeyboardAvoidManager';
 
 export { KeyboardAvoidManager };
