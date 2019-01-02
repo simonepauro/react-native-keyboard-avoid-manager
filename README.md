@@ -1,6 +1,9 @@
 # react-native-keyboard-avoid-manager
 A tool for managing the keyboard behaviour around inputs
 
+## Preview
+ ![](https://github.com/simonepauro/react-native-keyboard-avoid-manager/blob/master/example/preview.gif)
+
 ## Getting started
 
 `$ npm install react-native-keyboard-avoid-manager --save`
@@ -50,4 +53,4 @@ import RNKeyboardAvoidManager from 'react-native-keyboard-avoid-manager';
 // TODO: What to do with the module?
 RNKeyboardAvoidManager;
 ```
-  
+
